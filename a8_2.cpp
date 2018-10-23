@@ -1,9 +1,4 @@
 /*Christine Tai
-CS 10
-7/12/13
-Dave Harden
-a8_2
-
 This program is designed to print out a calendar
 for one year. First, the user is asked to input
 a year and the day of the week January 1st falls
